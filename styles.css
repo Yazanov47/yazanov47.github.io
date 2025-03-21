@@ -1,0 +1,21 @@
+/* Ensure proper spacing between grid items */
+.quarto-grid {
+    display: grid;
+    gap: 1.5rem;
+  }
+  
+  /* Style each card */
+  .quarto-grid-item.card {
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+    background-color: rgba(255, 255, 255, 0.05); /* Slight contrast for dark mode */
+    padding: 16px;
+    text-align: center;
+  }
+  
+  /* Apply hover effect only to the card, without a drop shadow */
+  .quarto-grid-item.card:hover {
+    transform: scale(1.05);
+  }
+  
