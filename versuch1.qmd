@@ -1,0 +1,19 @@
+---
+title: "Versuch 1: Titel des Versuchs"
+description: "Kurze Beschreibung von Versuch 1"
+format: html
+image: "images/versuch1.png"
+---
+
+# Kapitel 1: Einführung
+
+## Unterkapitel: Motivation
+[Platzhalter motivation]
+
+## Unterkapitel: Ziele
+[Platzhalter Ziele]
+
+### Unterkapitel of 1.2
+[Platzhalter Unterkapitel of 1.2]
+
+# Kapitel 2: ...etc

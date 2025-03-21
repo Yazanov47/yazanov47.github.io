@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Team 03"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Versuche"
+        menu:
+          - href: versuch1.qmd
+            text: "Versuch 1"
+          - href: versuch2.qmd
+            text: "Versuch 2"
+          - href: versuch3.qmd
+            text: "Versuch 3"
+          - href: versuch4.qmd
+            text: "Versuch 4"
+          - href: versuch5.qmd
+            text: "Versuch 5"
+          - href: versuch6.qmd
+            text: "Versuch 6"
+      - href: about.qmd
+        text: Über Uns
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    toc-expand: true
+    css: styles.css

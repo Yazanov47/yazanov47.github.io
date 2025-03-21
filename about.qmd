@@ -1,0 +1,8 @@
+---
+title: "Über unser Team"
+description: "Kurze Beschreibung von unserem Team"
+format: html
+exclude_from_listing: true
+---
+
+# Team 03

@@ -1,0 +1,19 @@
+---
+title: "Team 03 - Versuche"
+format: html
+listing:
+  contents: "*.qmd"
+  sort: title
+  type: grid
+  categories: false
+  fields: [image, title]
+  grid-columns: 3
+  image-height: 200px
+  exclude:
+    exclude_from_listing: true
+
+---
+
+# Inhaltsverzeichnis
+
+```{list}
